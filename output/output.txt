@@ -1,0 +1,333 @@
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 1/20 sips.
+BEE 1: fly away for 462 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 2/20 sips.
+BEE 2: fly away for 201 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 3/20 sips.
+BEE 3: fly away for 334 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 4/20 sips.
+BEE 4: fly away for 462 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 5/20 sips.
+BEE 2: fly away for 201 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 6/20 sips.
+BEE 3: fly away for 334 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 7/20 sips.
+BEE 5: fly away for 377 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 8/20 sips.
+BEE 1: fly away for 115 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 9/20 sips.
+BEE 2: fly away for 223 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 10/20 sips.
+BEE 1: fly away for 103 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 11/20 sips.
+BEE 2: fly away for 434 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 12/20 sips.
+BEE 3: fly away for 308 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 13/20 sips.
+BEE 1: fly away for 241 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 14/20 sips.
+BEE 5: fly away for 360 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 15/20 sips.
+BEE 4: fly away for 350 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 16/20 sips.
+BEE 1: fly away for 142 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 17/20 sips.
+BEE 3: fly away for 100 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 18/20 sips.
+BEE 2: fly away for 308 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 19/20 sips.
+BEE 1: fly away for 289 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 20/20 sips.
+BEE 3: fly away for 446 seconds.
+
+WINNIE-THE-POOH: ate 1 pots of honey.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 1/20 sips.
+BEE 5: fly away for 110 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 2/20 sips.
+BEE 4: fly away for 161 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 3/20 sips.
+BEE 5: fly away for 433 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 4/20 sips.
+BEE 2: fly away for 149 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 5/20 sips.
+BEE 1: fly away for 402 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 6/20 sips.
+BEE 3: fly away for 134 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 7/20 sips.
+BEE 2: fly away for 373 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 8/20 sips.
+BEE 5: fly away for 133 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 9/20 sips.
+BEE 3: fly away for 470 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 10/20 sips.
+BEE 1: fly away for 477 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 11/20 sips.
+BEE 5: fly away for 275 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 12/20 sips.
+BEE 2: fly away for 414 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 13/20 sips.
+BEE 4: fly away for 255 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 14/20 sips.
+BEE 5: fly away for 360 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 15/20 sips.
+BEE 3: fly away for 375 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 16/20 sips.
+BEE 1: fly away for 430 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 17/20 sips.
+BEE 2: fly away for 194 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 18/20 sips.
+BEE 4: fly away for 325 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 19/20 sips.
+BEE 5: fly away for 445 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 20/20 sips.
+BEE 2: fly away for 390 seconds.
+
+WINNIE-THE-POOH: ate 2 pots of honey.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 1/20 sips.
+BEE 5: fly away for 401 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 2/20 sips.
+BEE 3: fly away for 452 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 3/20 sips.
+BEE 1: fly away for 270 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 4/20 sips.
+BEE 2: fly away for 141 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 5/20 sips.
+BEE 4: fly away for 311 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 6/20 sips.
+BEE 2: fly away for 119 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 7/20 sips.
+BEE 5: fly away for 256 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 8/20 sips.
+BEE 1: fly away for 385 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 9/20 sips.
+BEE 2: fly away for 400 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 10/20 sips.
+BEE 5: fly away for 446 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 11/20 sips.
+BEE 1: fly away for 330 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 12/20 sips.
+BEE 3: fly away for 410 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 13/20 sips.
+BEE 4: fly away for 179 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 14/20 sips.
+BEE 2: fly away for 262 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 15/20 sips.
+BEE 5: fly away for 131 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 16/20 sips.
+BEE 1: fly away for 482 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 17/20 sips.
+BEE 2: fly away for 297 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 18/20 sips.
+BEE 5: fly away for 477 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 19/20 sips.
+BEE 4: fly away for 187 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 20/20 sips.
+BEE 3: fly away for 339 seconds.
+
+WINNIE-THE-POOH: ate 3 pots of honey.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 1/20 sips.
+BEE 2: fly away for 126 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 2/20 sips.
+BEE 4: fly away for 363 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 3/20 sips.
+BEE 1: fly away for 252 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 4/20 sips.
+BEE 3: fly away for 281 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 5/20 sips.
+BEE 2: fly away for 295 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 6/20 sips.
+BEE 5: fly away for 200 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 7/20 sips.
+BEE 1: fly away for 210 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 8/20 sips.
+BEE 3: fly away for 462 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 9/20 sips.
+BEE 2: fly away for 425 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 10/20 sips.
+BEE 4: fly away for 228 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 11/20 sips.
+BEE 5: fly away for 351 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 12/20 sips.
+BEE 1: fly away for 325 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 13/20 sips.
+BEE 4: fly away for 252 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 14/20 sips.
+BEE 5: fly away for 120 seconds.
+
+BEE 3: put one sip of honey in a pot.
+HONEY POT: full for 15/20 sips.
+BEE 3: fly away for 440 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 16/20 sips.
+BEE 2: fly away for 135 seconds.
+
+BEE 1: put one sip of honey in a pot.
+HONEY POT: full for 17/20 sips.
+BEE 1: fly away for 212 seconds.
+
+BEE 5: put one sip of honey in a pot.
+HONEY POT: full for 18/20 sips.
+BEE 5: fly away for 268 seconds.
+
+BEE 2: put one sip of honey in a pot.
+HONEY POT: full for 19/20 sips.
+BEE 2: fly away for 420 seconds.
+
+BEE 4: put one sip of honey in a pot.
+HONEY POT: full for 20/20 sips.
+BEE 4: fly away for 111 seconds.
+
+WINNIE-THE-POOH: ate 4 pots of honey.
+
+BEE 5: stop bringing honey.
+BEE 1: stop bringing honey.
+BEE 3: stop bringing honey.
+BEE 2: stop bringing honey.
+BEE 4: stop bringing honey.
